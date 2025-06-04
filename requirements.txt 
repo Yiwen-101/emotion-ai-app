@@ -1,3 +1,7 @@
+streamlit
 torch
 torchvision
-tqdm
+opencv-python-headless
+Pillow
+numpy
+
